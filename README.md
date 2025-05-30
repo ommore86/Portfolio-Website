@@ -1,4 +1,4 @@
-# PORTFOLIO WEBSITE
+# 📄 PORTFOLIO WEBSITE
 
 Welcome to my personal portfolio website! This site serves as a digital resume where I showcase my projects, skills, interests, and journey as an AI & Data Science Engineering student. It’s built to reflect my personality, passion for tech and continuous learning.
 
