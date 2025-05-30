@@ -19,27 +19,22 @@ Animations & Icons: Framer Motion, React Icons<br>
 Hosting: GitHub Pages / Vercel / Netlify<br>
 
 <h2>🚀 Live Demo</h2>
-🔗 
 
 [Click Here](https://portfolio-website-om-more.vercel.app/) to view the portfolio website live!
 
 <h2>📷 Screenshots</h2>
-Home Page
 
 ![App Screenshot](images/readme_img.png)
-
-Project section
-
-![Project Section Screenshot](images/readme_img2.png)
+<br>
 
 <h2>🛠️ How to Run Locally</h2>
-bash<br>
-Copy<br>
-Edit<br>
-git clone https://github.com/your-username/your-portfolio-repo.git<br>
-cd your-portfolio-repo<br>
-npm install<br>
-npm run dev<br>
+
+```bash
+git clone https://github.com/ommore86/Portfolio-Website.git
+cd your-portfolio-repo
+npm install
+npm run dev
+```
 
 <h2>🤝 Let's Connect!</h2>
 
