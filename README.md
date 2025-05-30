@@ -31,7 +31,7 @@ Hosting: GitHub Pages / Vercel / Netlify<br>
 
 ```bash
 git clone https://github.com/ommore86/Portfolio-Website.git
-cd your-portfolio-repo
+cd Portfolio-Website
 npm install
 npm run dev
 ```
